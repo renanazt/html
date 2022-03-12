@@ -1,0 +1,32 @@
+img{
+	width:350;
+	border:5px solid brown;
+}
+
+body{
+   font-size:25;
+   background-color :beige;
+   font-family: Ariel
+	
+}
+h1{
+	font-family: Ariel;
+	font-size:32;
+	text-align: center; text-transform: uppercase;
+}	
+h2{
+	font-family: Ariel;
+	font-size:32;
+	text-align: center; text-transform: uppercase;
+	
+}
+h3{
+	font-family: Ariel;
+	font-size:32;
+	text-align: center; text-transform: uppercase;
+}
+h4{
+	font-family: Ariel;
+	font-size:32;
+	text-align: center; text-transform: uppercase;
+}
